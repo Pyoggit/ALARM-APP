@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:alarm/alarm.dart';
 import 'package:flutter/services.dart';
 
-// main
+// "main"
 Future<void> main() async {
   // 위젯이 초기화되도록 보장합니다.
   WidgetsFlutterBinding.ensureInitialized();
