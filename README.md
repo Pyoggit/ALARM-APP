@@ -2,8 +2,6 @@
 
 알람 앱
 
-# Alarm App
-
 ## 프로젝트 소개
 이 알람 앱은 사용자가 특정 시간에 알림을 받을 수 있도록 도와주는 간단한 앱입니다. 설정된 시간에 소리, 진동 등의 알람 기능을 통해 사용자에게 알림을 제공합니다.
 
@@ -15,9 +13,10 @@
 - **알람 편집 및 삭제**: 설정한 알람을 수정하거나 삭제할 수 있습니다.
 
 ## 실행 화면
-![bandicam 2024-11-11 16-34-03-651](https://github.com/user-attachments/assets/7e96780f-bf50-4c22-b116-d8d64b9d3175)
-![bandicam 2024-11-11 16-34-55-206](https://github.com/user-attachments/assets/af66fe31-72c3-47b3-ad92-296da9c3a08d)
-![bandicam 2024-11-11 16-34-55-206](https://github.com/user-attachments/assets/a124e168-1c97-4424-bc76-6e573add3445)
+## 실행 화면
+<img src="https://github.com/user-attachments/assets/7e96780f-bf50-4c22-b116-d8d64b9d3175" width="200">
+<img src="https://github.com/user-attachments/assets/6f7bc199-4390-47d3-b3f4-ab9ef7a20a1a" width="200">
+<img src="https://github.com/user-attachments/assets/af66fe31-72c3-47b3-ad92-296da9c3a08d" width="200">
 
 ## Getting Started
 
